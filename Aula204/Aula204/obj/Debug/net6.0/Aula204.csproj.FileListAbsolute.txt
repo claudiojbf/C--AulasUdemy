@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\bin\Debug\net6.0\Aula204.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\bin\Debug\net6.0\Aula204.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\bin\Debug\net6.0\Aula204.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\bin\Debug\net6.0\Aula204.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\bin\Debug\net6.0\Aula204.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\refint\Aula204.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\Aula204.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula204\Aula204\obj\Debug\net6.0\ref\Aula204.dll

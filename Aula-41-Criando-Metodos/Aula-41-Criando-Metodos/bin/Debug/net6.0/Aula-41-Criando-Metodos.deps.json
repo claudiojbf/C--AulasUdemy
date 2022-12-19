@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula-41-Criando-Metodos/1.0.0": {
+        "runtime": {
+          "Aula-41-Criando-Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula-41-Criando-Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

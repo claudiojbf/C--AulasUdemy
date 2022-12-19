@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\bin\Debug\net6.0\Aula124.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\bin\Debug\net6.0\Aula124.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\bin\Debug\net6.0\Aula124.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\bin\Debug\net6.0\Aula124.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\bin\Debug\net6.0\Aula124.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\refint\Aula124.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\Aula124.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula124\Aula124\obj\Debug\net6.0\ref\Aula124.dll

@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\bin\Debug\net6.0\Aula51.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\bin\Debug\net6.0\Aula51.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\bin\Debug\net6.0\Aula51.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\bin\Debug\net6.0\Aula51.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\bin\Debug\net6.0\Aula51.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\refint\Aula51.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\Aula51.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula51\Aula51\obj\Debug\net6.0\ref\Aula51.dll

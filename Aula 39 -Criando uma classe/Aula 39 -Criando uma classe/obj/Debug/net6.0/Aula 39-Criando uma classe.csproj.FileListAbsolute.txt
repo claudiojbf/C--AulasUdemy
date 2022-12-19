@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\bin\Debug\net6.0\Aula 39-Criando uma classe.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\bin\Debug\net6.0\Aula 39-Criando uma classe.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\bin\Debug\net6.0\Aula 39-Criando uma classe.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\bin\Debug\net6.0\Aula 39-Criando uma classe.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\bin\Debug\net6.0\Aula 39-Criando uma classe.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\refint\Aula 39-Criando uma classe.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\Aula 39-Criando uma classe.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula 39 -Criando uma classe\Aula 39 -Criando uma classe\obj\Debug\net6.0\ref\Aula 39-Criando uma classe.dll

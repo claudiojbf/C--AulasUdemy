@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\bin\Debug\net6.0\Aula46.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\bin\Debug\net6.0\Aula46.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\bin\Debug\net6.0\Aula46.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\bin\Debug\net6.0\Aula46.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\bin\Debug\net6.0\Aula46.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\refint\Aula46.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\Aula46.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula46\Aula46\obj\Debug\net6.0\ref\Aula46.dll

@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\bin\Debug\net6.0\Aula223.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\bin\Debug\net6.0\Aula223.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\bin\Debug\net6.0\Aula223.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\bin\Debug\net6.0\Aula223.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\bin\Debug\net6.0\Aula223.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\refint\Aula223.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\Aula223.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula223\Aula223\obj\Debug\net6.0\ref\Aula223.dll

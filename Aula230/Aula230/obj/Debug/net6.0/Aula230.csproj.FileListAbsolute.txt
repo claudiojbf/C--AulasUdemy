@@ -1,0 +1,15 @@
+C:\Users\claud\source\repos\Aula230\Aula230\bin\Debug\net6.0\Aula230.exe
+C:\Users\claud\source\repos\Aula230\Aula230\bin\Debug\net6.0\Aula230.deps.json
+C:\Users\claud\source\repos\Aula230\Aula230\bin\Debug\net6.0\Aula230.runtimeconfig.json
+C:\Users\claud\source\repos\Aula230\Aula230\bin\Debug\net6.0\Aula230.dll
+C:\Users\claud\source\repos\Aula230\Aula230\bin\Debug\net6.0\Aula230.pdb
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.AssemblyInfo.cs
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.dll
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\refint\Aula230.dll
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.pdb
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\Aula230.genruntimeconfig.cache
+C:\Users\claud\source\repos\Aula230\Aula230\obj\Debug\net6.0\ref\Aula230.dll

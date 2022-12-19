@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\bin\Debug\net6.0\Aula-41-Criando-Metodos.exe
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\bin\Debug\net6.0\Aula-41-Criando-Metodos.deps.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\bin\Debug\net6.0\Aula-41-Criando-Metodos.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\bin\Debug\net6.0\Aula-41-Criando-Metodos.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\bin\Debug\net6.0\Aula-41-Criando-Metodos.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\refint\Aula-41-Criando-Metodos.dll
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.pdb
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\Aula-41-Criando-Metodos.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\C#\Projetos\Aulas\Aula-41-Criando-Metodos\Aula-41-Criando-Metodos\obj\Debug\net6.0\ref\Aula-41-Criando-Metodos.dll

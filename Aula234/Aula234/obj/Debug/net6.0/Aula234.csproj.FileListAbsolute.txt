@@ -1,0 +1,15 @@
+C:\Users\claud\source\repos\Aula234\Aula234\bin\Debug\net6.0\Aula234.exe
+C:\Users\claud\source\repos\Aula234\Aula234\bin\Debug\net6.0\Aula234.deps.json
+C:\Users\claud\source\repos\Aula234\Aula234\bin\Debug\net6.0\Aula234.runtimeconfig.json
+C:\Users\claud\source\repos\Aula234\Aula234\bin\Debug\net6.0\Aula234.dll
+C:\Users\claud\source\repos\Aula234\Aula234\bin\Debug\net6.0\Aula234.pdb
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.AssemblyInfo.cs
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.dll
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\refint\Aula234.dll
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.pdb
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\Aula234.genruntimeconfig.cache
+C:\Users\claud\source\repos\Aula234\Aula234\obj\Debug\net6.0\ref\Aula234.dll
